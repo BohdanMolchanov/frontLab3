@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(253, 253, 151);
+}
+.first-a{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 2rem;
+    background-color: rgb(122, 221, 221);
+    border: 1px #5bb482 solid;
+    padding: 1rem;
+}
+#pascal{
+    background-color: bisque;
+    border-top: 2px blue solid;
+    border-bottom: 2px blue solid;
+    margin-top: 2rem;
+}
+.pascal-div{
+    text-align: center;
+    font-size: 2rem;
+}
+.pascal-span{
+    padding: 2rem;
+}
